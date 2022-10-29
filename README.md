@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h3 align="center" > I'm a frontend developer from Kenya
 <!--
 **Hafsabdi/hafsabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
